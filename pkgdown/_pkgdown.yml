@@ -3,9 +3,6 @@ url: https://mine-cetinkaya-rundel.github.io/openintro
 home:
   title: Replace "statistically significant" with "statistically discernible"
   description: Promotes the use of the term "discernible" over "significant" in the context of statistical inference, rephrasing "statistically significant" with "statistically discernible" and associating the term "significant" with "practical significance" only.
-  links:
-  - text: Read the editorial
-    href: https://www.tandfonline.com/doi/full/10.1080/10691898.2019.1702415
 
 template:
   bootstrap: 5
@@ -25,3 +22,5 @@ navbar:
   left:
   - text: Reference
     href: reference/index.html
+  - text: Learn more
+    href: https://www.tandfonline.com/doi/full/10.1080/10691898.2019.1702415

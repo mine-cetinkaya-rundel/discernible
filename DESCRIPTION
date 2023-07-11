@@ -1,10 +1,12 @@
 Package: discernible
-Title: Replace statistical significance with statistical discernability
+Title: Replace "statistically significant" with "statistically discernible"
 Version: 0.0.0.9000
 Authors@R: 
     person("Mine", "\u00C7etinkaya-Rundel", email = "cetinkaya.mine@gmail.com", role = c("aut", "cre"), comment = c(ORCID = "0000-0001-6452-2420"))
-Description: Promotes the use of "discernible" over "significant" after "statistically", 
-    and leave "significant" to be "practically significant".
+Description: Promotes the use of the term "discernible" over "significant" 
+    in the context of statistical inference, rephrasing "statistically significant"
+    with "statistically discernible" and associating the term "significant" with 
+    "practical significance" only.
 License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
@@ -12,3 +14,5 @@ RoxygenNote: 7.2.3
 URL: https://github.com/mine-cetinkaya-rundel/discernible,
     https://mine-cetinkaya-rundel.github.io/discernible/
 BugReports: https://github.com/mine-cetinkaya-rundel/discernible/issues
+Imports: 
+    stringr

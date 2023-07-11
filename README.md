@@ -11,7 +11,8 @@
 The goal of discernible is to promote the use of “discernible” over
 “significant” after “statistically”, and leave “significant” to be
 “practically significant”. This package is developed in a somewhat
-tongue-in-cheek manner, to implement ideas from Jeff Witmer’s
+tongue-in-cheek manner, to implement ideas from [Jeff
+Witmer](https://www.oberlin.edu/jeff-witmer)’s
 [editorial](https://doi.org/10.1080/10691898.2019.1702415) on
 terminology for statistical inference.
 

@@ -16,6 +16,7 @@ knitr::opts_chunk$set(
 # discernible <img src="man/figures/logo.png" align="right" height="120" />
 
 <!-- badges: start -->
+[![R-CMD-check](https://github.com/mine-cetinkaya-rundel/discernible/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/mine-cetinkaya-rundel/discernible/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
 The goal of discernible is to promote the use of "discernible" over "significant" after "statistically", and leave "significant" to be "practically significant".

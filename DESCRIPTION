@@ -1,8 +1,10 @@
 Package: discernible
 Title: Replace "statistically significant" with "statistically discernible"
 Version: 0.0.0.9000
-Authors@R: 
-    person("Mine", "\u00C7etinkaya-Rundel", email = "cetinkaya.mine@gmail.com", role = c("aut", "cre"), comment = c(ORCID = "0000-0001-6452-2420"))
+Authors@R: c(
+    person("Mine", "\u00C7etinkaya-Rundel", email = "cetinkaya.mine@gmail.com", role = c("aut", "cre"), comment = c(ORCID = "0000-0001-6452-2420")),
+    person("Jeff", "Witmer", email = "Jeff.Witmer@oberlin.edu", role = "aut")
+    )
 Description: Promotes the use of the term "discernible" over "significant" 
     in the context of statistical inference, rephrasing "statistically significant"
     with "statistically discernible" and associating the term "significant" with 

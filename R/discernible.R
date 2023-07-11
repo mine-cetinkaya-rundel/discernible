@@ -7,7 +7,8 @@
 #' @importFrom stringr str_replace_all
 #' @export
 #' @examples
-#' discernible("The p-value is statistically significant.")
+#' conclusion <- "The clinical trial showed statistically significant evidence of being effective."
+#' discernible(conclusion)
 
 discernible <- function(x){
   str_replace_all(x, "tatistically significant", "tatistically discernible")

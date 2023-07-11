@@ -14,5 +14,6 @@ Replaces the phrase statistically significant with statistically discernible
 in a given character string.
 }
 \examples{
-discernible("The p-value is statistically significant.")
+conclusion <- "The clinical trial showed statistically significant evidence of being effective."
+discernible(conclusion)
 }

@@ -1,21 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://mine-cetinkaya-rundel.github.io/discernible/404.html</loc>
+    <loc>https://mine-cetinkaya-rundel.github.io/openintro/404.html</loc>
   </url>
   <url>
-    <loc>https://mine-cetinkaya-rundel.github.io/discernible/LICENSE-text.html</loc>
+    <loc>https://mine-cetinkaya-rundel.github.io/openintro/LICENSE-text.html</loc>
   </url>
   <url>
-    <loc>https://mine-cetinkaya-rundel.github.io/discernible/LICENSE.html</loc>
+    <loc>https://mine-cetinkaya-rundel.github.io/openintro/LICENSE.html</loc>
   </url>
   <url>
-    <loc>https://mine-cetinkaya-rundel.github.io/discernible/authors.html</loc>
+    <loc>https://mine-cetinkaya-rundel.github.io/openintro/authors.html</loc>
   </url>
   <url>
-    <loc>https://mine-cetinkaya-rundel.github.io/discernible/index.html</loc>
+    <loc>https://mine-cetinkaya-rundel.github.io/openintro/index.html</loc>
   </url>
   <url>
-    <loc>https://mine-cetinkaya-rundel.github.io/discernible/reference/index.html</loc>
+    <loc>https://mine-cetinkaya-rundel.github.io/openintro/reference/discernible.html</loc>
+  </url>
+  <url>
+    <loc>https://mine-cetinkaya-rundel.github.io/openintro/reference/index.html</loc>
   </url>
 </urlset>

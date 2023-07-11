@@ -29,6 +29,9 @@ devtools::install_github("mine-cetinkaya-rundel/discernible")
 This is a basic example which shows you how to solve a common problem:
 
 ``` r
-#library(discernible)
-## basic example code
+library(discernible)
+
+conclusion <- "The clinical trial showed statistically significant evidence of being effective."
+discernible(conclusion)
+#> [1] "The clinical trial showed statistically discernible evidence of being effective."
 ```

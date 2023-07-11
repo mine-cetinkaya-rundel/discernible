@@ -15,4 +15,5 @@ URL: https://github.com/mine-cetinkaya-rundel/discernible,
     https://mine-cetinkaya-rundel.github.io/discernible/
 BugReports: https://github.com/mine-cetinkaya-rundel/discernible/issues
 Imports: 
-    stringr
+    stringr,
+    cli (>= 3.0.0)
